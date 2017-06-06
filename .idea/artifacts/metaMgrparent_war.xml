@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="metaMgrparent:war">
+    <output-path>$PROJECT_DIR$/metaMgrparent/target</output-path>
+    <root id="archive" name="metaMgr-parent.war">
+      <element id="artifact" artifact-name="metaMgrparent:war exploded" />
+    </root>
+  </artifact>
+</component>
